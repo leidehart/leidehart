@@ -10,8 +10,6 @@ I build clear, accessible and human-centered communication systems for brands, i
 [![Email](https://img.shields.io/badge/EMAIL-CONTACT-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leide.hart@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-LEIDE%20HART-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leidehart/)
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-LEIDEHART-black?style=for-the-badge&logo=adobecreativecloud&logoColor=white)](https://leidehart.myportfolio.com/)
-[![Behance](https://img.shields.io/badge/BEHANCE-CREATIVE%20WORKS-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/leidehart)
-[![GitHub](https://img.shields.io/badge/GITHUB-LEIDEHART-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leidehart)
 
 </div>
 
