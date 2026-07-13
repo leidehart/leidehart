@@ -12,7 +12,6 @@
 ![Reputação Institucional](https://img.shields.io/badge/Reputação-Institucional-1F6FEB?style=for-the-badge)
 ![Tecnologia e IA](https://img.shields.io/badge/Tecnologia%20%26%20IA-Inovação-00A67E?style=for-the-badge)
 ![Branding](https://img.shields.io/badge/Branding-Posicionamento-E94E77?style=for-the-badge)
-![UX](https://img.shields.io/badge/UX-Experiência-FF9F1C?style=for-the-badge)
 
 </div>
 
@@ -41,7 +40,7 @@ Atualmente, atuo na comunicação institucional da **Câmara Municipal de Santa 
 <tr>
 <td align="center" width="33%">
 
-### +20 anos
+### +15 anos
 de experiência em comunicação, marca, tecnologia e conteúdo
 
 </td>
