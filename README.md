@@ -1,102 +1,169 @@
-<div align="center">
-
 # LEIDE HART
 
-### Strategic Communication • Institutional Reputation • Technology, AI and UX
+### Strategic Communication · Institutional Reputation · Technology · AI · UX
 
-**Strategy, clarity and positioning to turn information into trust.**
+**Turning complexity into clarity, positioning and trust.**
 
-[View Case Portfolio](https://gamma.app/docs/Cases-Leide-Hart-haflj3mmhv229ml) ·
-[View Lattes CV](https://lattes.cnpq.br/3707321461151412) ·
-[Email](mailto:leide.hart@gmail.com)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-View_Selected_Cases-111827?style=for-the-badge&logo=readme&logoColor=white)](https://gamma.app/docs/Cases-Leide-Hart-haflj3mmhv229ml)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/EMAIL-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leide.hart@gmail.com)
+
+<br>
+
+[![Lattes](https://img.shields.io/badge/LATTES-Academic_CV-005CA9?style=flat-square)](https://lattes.cnpq.br/3707321461151412)
+[![GitHub](https://img.shields.io/badge/GITHUB-leidehart-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/leidehart)
 
 </div>
 
 ---
 
-## Professional Profile
+## Executive Profile
 
-Strategic Communication professional with an **established career** in institutional communication, reputation, branding, product marketing, user experience, content strategy and creative leadership.
+Strategic Communication professional with an established cross-sector career in **institutional communication, reputation, branding, product marketing, user experience, content strategy and creative leadership**.
 
-My background includes experience with nationally recognized organizations such as **Folha de S.Paulo, Claro Brasil, Intelbras and Elsys**, as well as relevant work across technology, education and the public sector.
+My background includes experience with nationally recognized organizations such as **Folha de S.Paulo, Claro Brasil, Intelbras and Elsys**, as well as leadership roles in technology companies and public institutions.
 
-Throughout my career, I have developed an integrated approach to **strategy, brand, content, technology and experience**, with a strong focus on making complex subjects clearer, more relevant and easier to understand for different audiences.
+I work at the intersection of **strategy, brand, content, technology and experience**, translating complex information into communication that is clear, relevant and trustworthy.
 
 ---
 
-## Experience with Leading Brands and Institutions
+## Career Highlights
 
-| Organization | Area of Expertise |
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 1.3M+
+
+Institutional content views  
+between February and June 2026
+
+</td>
+<td align="center" width="33%">
+
+### +52%
+
+Growth across official  
+municipal communication channels
+
+</td>
+<td align="center" width="33%">
+
+### 2M+
+
+Connected devices supported  
+through B2B technology communication
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## Experience with Leading Organizations
+
+<div align="center">
+
+**Folha de S.Paulo** · **Claro Brasil** · **Intelbras** · **Elsys**  
+**ATIVA Soluções Tecnológicas** · **FAI**  
+**Municipality of Santa Rita do Sapucaí** · **City Council of Santa Rita do Sapucaí**
+
+</div>
+
+<br>
+
+| Organization | Strategic Contribution |
 |---|---|
 | **Folha de S.Paulo** | Visual production, editorial language and journalistic communication |
 | **Claro Brasil** | User experience and the connection between product, technology and customers |
 | **Intelbras** | Product marketing and value proposition development |
-| **Elsys** | Marketing, campaigns and communication for technology solutions |
+| **Elsys** | Marketing campaigns and communication for technology solutions |
 | **ATIVA Soluções Tecnológicas** | Marketing leadership, branding and B2B communication for IoT, M2M and telemetry |
-| **Municipality of Santa Rita do Sapucaí** | Communication leadership, press relations, reputation and digital presence |
-| **City Council of Santa Rita do Sapucaí** | Institutional communication, brand, public language and community engagement |
+| **Municipality of Santa Rita do Sapucaí** | Communication leadership, press relations, reputation and digital growth |
+| **City Council of Santa Rita do Sapucaí** | Institutional communication, public language, brand and community engagement |
 | **FAI** | Digital marketing and educational communication |
-
----
-
-## Selected Results
-
-- More than **1.3 million views** across the City Council’s institutional channels between February and June 2026.
-- Growth of the Municipality’s official channels from approximately **22,000 to 33,000 followers**, an increase of around **52%**.
-- B2B communication for a technology company with more than **2,500 clients**, **2,200 completed projects** and **2 million managed devices**.
-- Development of content and strategic narratives for institutional, commercial, technical and executive audiences.
-- Proven ability to translate complex products, services and public information into clear, accessible and value-driven communication.
 
 ---
 
 ## Core Expertise
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Strategy
+
+- Institutional communication
+- Public communication
+- Content strategy
+- Strategic storytelling
+- Project and proposal writing
+
+</td>
+<td width="33%" valign="top">
+
+### Brand & Reputation
+
+- Branding and positioning
+- Institutional reputation
+- Brand identity
+- Digital presence
+- Stakeholder relations
+
+</td>
+<td width="33%" valign="top">
+
+### Technology & Experience
+
+- UX and user experience
+- Technology communication
+- AI applied to communication
+- Product marketing
+- B2B communication
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Results
+
+- Generated more than **1.3 million views** across the City Council’s institutional channels between February and June 2026.
+- Increased the Municipality’s official audience from approximately **22,000 to 33,000 followers**.
+- Led B2B communication for a technology company with more than **2,500 clients**, **2,200 completed projects** and **2 million managed devices**.
+- Developed strategic narratives for institutional, commercial, technical and executive audiences.
+- Translated complex products, services and public information into accessible and value-driven communication.
+
+---
+
+## Professional Focus
+
+I help brands and institutions:
+
+- communicate complex ideas with clarity;
+- strengthen reputation and public trust;
+- connect strategy, content and experience;
+- position products, services and institutions more effectively;
+- use technology and AI with purpose, responsibility and relevance.
+
+---
+
+## Featured Portfolio
+
 <div align="center">
 
-| Strategy | Brand and Reputation | Technology and Experience |
-|---|---|---|
-| Institutional communication | Branding and positioning | UX and user experience |
-| Public communication | Institutional reputation | Technology communication |
-| Content strategy | Brand identity | AI applied to communication |
-| Strategic storytelling | Digital presence | Product marketing |
-| Project and proposal writing | Stakeholder relations | B2B communication |
+### Selected projects in communication, branding, technology, public institutions and UX
+
+[![Open Portfolio](https://img.shields.io/badge/OPEN_SELECTED_CASES-111827?style=for-the-badge&logo=readme&logoColor=white)](https://gamma.app/docs/Cases-Leide-Hart-haflj3mmhv229ml)
 
 </div>
-
----
-
-## Professional Positioning
-
-My work is at the intersection of:
-
-- **communication and strategy**;
-- **brand and reputation**;
-- **technology and understanding**;
-- **institutions and society**;
-- **content and experience**.
-
-I help strengthen brands and institutions through communication that is clear, consistent, accessible and trustworthy.
-
----
-
-## Portfolio
-
-Explore selected projects and case studies in strategic communication, public sector communication, branding, technology, content and UX:
-
-### [View Case Portfolio](https://gamma.app/docs/Cases-Leide-Hart-haflj3mmhv229ml)
-
----
-
-## Areas of Interest
-
-- Public communication and institutional trust
-- Artificial intelligence, ethics and authorship
-- Brand and institutional reputation
-- Communication for research, innovation and technology
-- Plain language and clarity
-- Citizen experience
-- Content strategy and positioning
-- Writing for projects, articles and proposals
 
 ---
 
@@ -121,15 +188,20 @@ Fundação Getulio Vargas — FGV
 
 ## Contact
 
-- **Portfolio:** [Leide Hart Case Portfolio](https://gamma.app/docs/Cases-Leide-Hart-haflj3mmhv229ml)
-- **Lattes CV:** [lattes.cnpq.br/3707321461151412](https://lattes.cnpq.br/3707321461151412)
-- **Email:** [leide.hart@gmail.com](mailto:leide.hart@gmail.com)
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/leidehart)/
-
----
-
 <div align="center">
 
-**Communication that organizes, positions and builds trust.**
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Selected_Cases-111827?style=for-the-badge&logo=readme&logoColor=white)](https://gamma.app/docs/Cases-Leide-Hart-haflj3mmhv229ml)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_URL_HERE)
+[![Lattes](https://img.shields.io/badge/LATTES-Academic_CV-005CA9?style=for-the-badge)](https://lattes.cnpq.br/3707321461151412)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leide.hart@gmail.com)
+
+<br><br>
+
+**Communication that brings clarity, strengthens reputation and creates connection.**
 
 </div>
+"""
+
+path = Path("/mnt/data/README_Leide_Hart_Modern_Professional.md")
+path.write_text(readme, encoding="utf-8")
+print(f"Created: {path}")
