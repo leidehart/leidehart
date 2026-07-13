@@ -124,7 +124,7 @@ Fundação Getulio Vargas — FGV
 - **Portfolio:** [Leide Hart Case Portfolio](https://gamma.app/docs/Cases-Leide-Hart-haflj3mmhv229ml)
 - **Lattes CV:** [lattes.cnpq.br/3707321461151412](https://lattes.cnpq.br/3707321461151412)
 - **Email:** [leide.hart@gmail.com](mailto:leide.hart@gmail.com)
-- **LinkedIn:** replace this line with the full URL of your LinkedIn profile
+- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/leidehart)/
 
 ---
 
