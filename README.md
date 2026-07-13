@@ -6,9 +6,9 @@
 
 <br>
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-View_Selected_Cases-111827?style=for-the-badge&logo=readme&logoColor=white)](https://gamma.app/docs/Cases-Leide-Hart-haflj3mmhv229ml)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_URL_HERE)
-[![Email](https://img.shields.io/badge/EMAIL-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leide.hart@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Cases-111827?style=for-the-badge&logo=readme&logoColor=white)](https://gamma.app/docs/Cases-Leide-Hart-haflj3mmhv229ml)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](PASTE_YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/EMAIL-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leide.hart@gmail.com)
 
 <br>
 
